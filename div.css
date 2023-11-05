@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.baba{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.chela{
+    width: 45%;
+    background-color: red;
+    padding: 30px;
+
+}
+.maya{
+    width: 50%;
+    background-color: chartreuse;
+    padding: 30px;
+
+}
+.rima-1{
+background-color: aqua;
+}
+.rima-2{
+    background-color: pink;
+    width: 900PX;
+}

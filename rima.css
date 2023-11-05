@@ -1,0 +1,63 @@
+*{
+    margin: 3px;
+    padding: 20px;
+}
+
+
+
+.rima{
+    color: #16a085;
+    background-color: rgba(255, 0, 0, 0.607);
+    margin-top: 25px;
+    
+}
+.Rima{
+color: #16a085;
+background-color: #8e44ad;
+margin left:15px ;
+}
+.web{
+    display: block;
+    text-decoration:none ;
+    color: blue;
+    text-align: center;
+}
+.rupa{
+    text-align: center;
+}
+.rima h1{
+    font-size: 90px;
+    font-weight: bold;
+}
+.rima > p > i> a {
+    font-size: 20px;
+}
+.Rima h2{
+    border: 3px solid red;
+}
+.rima a{
+    display: block;
+    text-decoration: none;
+
+}
+.rima-1 > h3:nth-child(odd) {
+    color: white;
+    background-color: #0652DD;
+    text-align: center;
+}
+ i,b{
+    display: block;
+    font-size: 30px;
+    color: chartreuse;
+    text-align: center;
+    text-decoration: none;
+ }
+ u{
+    display: block;
+    font-size: 30px;
+    color: red;
+    text-align: left;
+    text-decoration: none;
+    margin left: 10px;
+    padding: 10px;
+ }
